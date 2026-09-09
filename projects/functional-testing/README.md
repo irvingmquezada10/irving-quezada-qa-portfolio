@@ -46,6 +46,7 @@ Las pruebas estarán enfocadas en:
 
 ## 🔄 Proceso de pruebas
 
+
 ```text
 Requerimientos
       ↓
@@ -64,6 +65,8 @@ Reporte de defectos
 Retesting
       ↓
 Regression Testing
+      ↓
+Cierre
 
 
 
@@ -92,6 +95,3 @@ casos de prueba, evidencias y reportes de defectos.
 Este proyecto forma parte de mi portafolio profesional de QA y
 demuestra mi enfoque para analizar, diseñar, ejecutar y
 documentar pruebas de software.
-
-      ↓
-Cierre
