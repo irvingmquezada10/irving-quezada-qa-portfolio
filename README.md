@@ -41,12 +41,12 @@ Durante mi experiencia he trabajado con:
 
 | Área | Tecnologías |
 |---|---|
-| Testing | Functional, Integration, Regression, UAT, Smoke, E2E,Humo,Exploratorias |
-| API | Postman, SoapUI, Swagger, REST, JSON |
-| Backend | Microservices, Logs, Kafka |
+| Testing | Funcionales, Integracion, Regresión, UAT, Humo, E2E, Exploratorias |
+| API | Postman, SoapUI, Swagger, JSON |
+| Backend | Microservicios, Logs, Kafka |
 | Database | SQL, SQL Developer |
-| Automation | Playwright, TypeScript, Cucumber, Ruby |
+| Automation | Playwright, TypeScript, Cucumber, Ruby, Selenium, Python |
 | Performance | JMeter, Relampo |
-| Gestión | Jira, ALM, qTest |
+| Gestión | Jira, ALM, qTest, Azure DevOps, Trello, Zephyr |
 | CI/CD | Jenkins |
 | Version Control | Git, GitHub |
