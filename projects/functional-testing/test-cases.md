@@ -35,9 +35,8 @@
 El sistema debe autenticar al usuario y mostrar la página
 principal de la aplicación.
 
-**Resultado obtenido:** Pendiente
-
-**Estado:** ⏳ Not Run
+Actual Result: El usuario pudo iniciar sesión correctamente y se mostró la sesión activa.
+Status: ✅ PASS
 
 ---
 
