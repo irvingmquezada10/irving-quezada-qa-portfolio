@@ -64,5 +64,34 @@ Reporte de defectos
 Retesting
       ↓
 Regression Testing
+
+
+
+| Artefacto   | Descripción                          |
+| ----------- | ------------------------------------ |
+| Test Plan   | Estrategia y alcance de las pruebas  |
+| Test Cases  | Casos de prueba funcionales          |
+| Bug Reports | Registro y seguimiento de defectos   |
+| Test Data   | Datos utilizados durante las pruebas |
+| Evidence    | Evidencias de ejecución              |
+
+
+🛠️ Herramientas
+GitHub
+Jira
+Excel / Google Sheets
+Navegador web
+
+📊 Resultados
+
+Los resultados de las pruebas serán documentados mediante
+casos de prueba, evidencias y reportes de defectos.
+
+📚 Objetivo del proyecto
+
+Este proyecto forma parte de mi portafolio profesional de QA y
+demuestra mi enfoque para analizar, diseñar, ejecutar y
+documentar pruebas de software.
+
       ↓
 Cierre
