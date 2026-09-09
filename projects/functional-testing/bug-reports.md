@@ -109,66 +109,6 @@ La evidencia de ejecución será agregada en la carpeta:
 evidence/
 
 
-BUG-002 — Mensaje incorrecto al ingresar credenciales inválidas
-📋 Información del defecto
-Campo	Detalle
-ID	BUG-002
-Módulo	Login
-Severidad	Media
-Prioridad	Media
-Tipo	Funcional
-Estado	Abierto
-Ambiente	QA
-Detectado por	Irving Quezada
-📝 Descripción
+/evidence
 
-Cuando el usuario intenta iniciar sesión con credenciales
-incorrectas, el sistema muestra un mensaje que no corresponde
-con la situación presentada.
 
-🔄 Precondiciones
-Usuario registrado.
-Aplicación disponible.
-Usuario ubicado en la pantalla de Login.
-🧪 Pasos para reproducir
-Acceder a la pantalla de Login.
-Introducir un usuario válido.
-Introducir una contraseña incorrecta.
-Seleccionar "Iniciar sesión".
-❌ Resultado actual
-
-El sistema muestra un mensaje incorrecto o poco claro para
-el usuario.
-
-✅ Resultado esperado
-
-El sistema debe mostrar un mensaje claro indicando que las
-credenciales proporcionadas no son válidas.
-
-📊 Severidad
-
-Media
-
-La funcionalidad de autenticación continúa operando, pero
-el mensaje afecta la experiencia y comprensión del usuario.
-
-📊 Resumen de defectos
-ID	Módulo	Severidad	Prioridad	Estado
-BUG-001	Checkout	Alta	Alta	🔴 Abierto
-BUG-002	Login	Media	Media	🟠 Abierto
-🧠 Información documentada
-
-Cada defecto contiene:
-
-Identificador
-Módulo afectado
-Descripción
-Precondiciones
-Pasos para reproducir
-Resultado actual
-Resultado esperado
-Severidad
-Prioridad
-Impacto
-Evidencia
-Estado
