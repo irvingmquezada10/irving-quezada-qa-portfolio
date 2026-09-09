@@ -187,3 +187,27 @@ Retesting
 Regression Testing
       ↓
 Cierre
+
+12. 📦 Entregables
+
+Los siguientes artefactos serán generados como parte del proyecto:
+
+Test Plan
+Test Cases
+Test Data
+Bug Reports
+Test Execution Results
+Evidencias de ejecución
+13. 🛠️ Herramientas
+GitHub
+Markdown
+Navegador web
+Jira (simulación de gestión de defectos)
+Excel / Google Sheets
+14. 📌 Nota
+
+Este proyecto es una demostración realizada con fines
+profesionales y educativos.
+
+No contiene información, datos, documentación ni
+funcionalidades confidenciales de proyectos reales.
