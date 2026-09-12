@@ -5,11 +5,9 @@ QA Portfolio | Software Testing | API Testing | Automation | Performance Testing
 
 ### QA Analyst | Software Tester | API Testing | Automation
 
-Tester con más de 6 años de experiencia en aseguramiento de calidad de software,
-con experiencia en proyectos de los sectores financiero y asegurador.
+Soy QA Tester con más de 6 años de experiencia en aseguramiento de calidad de software, principalmente en los sectores financiero y asegurador.
 
-Mi enfoque combina análisis de requerimientos, diseño y ejecución de pruebas,
-validación de APIs y datos, identificación de riesgos y automatización.
+Mi experiencia se centra en entender los requerimientos, diseñar escenarios de prueba, validar funcionalidades, APIs, datos y microservicios, y dar seguimiento a los riesgos y defectos durante el ciclo de desarrollo. Actualmente estoy fortaleciendo mi perfil en automatización y pruebas de performance.
 
 ---
 
