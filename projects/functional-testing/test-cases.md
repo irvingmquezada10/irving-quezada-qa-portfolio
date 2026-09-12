@@ -211,7 +211,7 @@ Status: ✅ PASS
 El producto debe eliminarse correctamente del carrito y el
 total debe actualizarse.
 
-Resultado real: El usuario puede agregar productos al carrito.
+Resultado real: El usuario puede eliminar productos del carrito.
 Status: ✅ PASS
 
 ### Evidencia
@@ -240,8 +240,8 @@ Status: ✅ PASS
 La cantidad debe actualizarse correctamente y el subtotal y
 total deben recalcularse.
 
-Resultado real: El usuario puede agregar productos al carrito.
-Status: ✅ PASS
+Resultado real: El usuario no puede actualizar la cantidad.
+Status: ❌ FAIL
 
 ### Evidencia
 
