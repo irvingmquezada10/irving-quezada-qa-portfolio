@@ -57,7 +57,6 @@ Se realizarán los siguientes tipos de pruebas:
 
 - Functional Testing
 - Smoke Testing
-- Regression Testing
 - Negative Testing
 - Exploratory Testing
 - End-to-End Testing
@@ -68,13 +67,12 @@ Se realizarán los siguientes tipos de pruebas:
 
 Las pruebas se diseñarán considerando:
 
-- Requerimientos funcionales
 - Flujos principales del usuario
 - Escenarios positivos
 - Escenarios negativos
 - Valores límite
 - Validaciones de campos
-- Reglas de negocio
+- Posibles Reglas de negocio
 - Dependencias entre funcionalidades
 - Riesgos asociados al flujo
 
@@ -162,8 +160,34 @@ Los defectos encontrados serán documentados incluyendo:
 - Estado
 
 ---
+11. 📦 Entregables
 
-## 11. 🔄 Flujo de pruebas
+Los siguientes artefactos serán generados como parte del proyecto:
+
+Test Plan
+Test Cases
+Test Data
+Bug Reports
+Test Execution Results
+Evidencias de ejecución
+
+12. 🛠️ Herramientas
+GitHub
+Markdown
+Navegador web
+Jira (simulación de gestión de defectos)
+Excel / Google Sheets
+
+13. 📌 Nota
+Este proyecto es una demostración realizada con fines
+profesionales y educativos.
+
+No contiene información, datos, documentación ni
+funcionalidades confidenciales de proyectos reales.
+
+
+
+## 🔄 Flujo de pruebas
 
 ```text
 Requerimientos
@@ -188,27 +212,5 @@ Regression Testing
       ↓
 Cierre
 
-12. 📦 Entregables
 
-Los siguientes artefactos serán generados como parte del proyecto:
 
-Test Plan
-Test Cases
-Test Data
-Bug Reports
-Test Execution Results
-Evidencias de ejecución
-
-13. 🛠️ Herramientas
-GitHub
-Markdown
-Navegador web
-Jira (simulación de gestión de defectos)
-Excel / Google Sheets
-
-14. 📌 Nota
-Este proyecto es una demostración realizada con fines
-profesionales y educativos.
-
-No contiene información, datos, documentación ni
-funcionalidades confidenciales de proyectos reales.
