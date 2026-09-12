@@ -40,7 +40,7 @@ Status: ✅ PASS
 
 ### Evidencia
 
-![TC-001 - Login exitoso](./evidence/TC-001-Login exitoso.png)
+![TC-001 - Login exitoso](./evidence/TC-001-Loginexitoso.png)
 
 ---
 
