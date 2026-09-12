@@ -153,9 +153,12 @@ Status: ✅ PASS
 El sistema debe informar que no existen resultados para el
 criterio utilizado.
 
-**Resultado obtenido:** Pendiente
+Resultado real: El sistema no muestra el mensaje , sin embargo no arroja resultados.
+Status: ❌ FAIL
 
-**Estado:** ⏳ Not Run
+### Evidencia
+
+![TC-005 - Búsqueda de producto inexistente](./evidence/TC-005-BusquedaProductoIN.png)
 
 ---
 
@@ -180,9 +183,12 @@ criterio utilizado.
 El producto debe aparecer en el carrito con la cantidad y
 precio correspondientes.
 
-**Resultado obtenido:** Pendiente
+Resultado real: El usuario puede agregar productos al carrito.
+Status: ✅ PASS
 
-**Estado:** ⏳ Not Run
+### Evidencia
+
+![TC-006 - Agregar producto al carrito](./evidence/TC-006-AddProductos.png)
 
 ---
 
@@ -205,9 +211,13 @@ precio correspondientes.
 El producto debe eliminarse correctamente del carrito y el
 total debe actualizarse.
 
-**Resultado obtenido:** Pendiente
+Resultado real: El usuario puede agregar productos al carrito.
+Status: ✅ PASS
 
-**Estado:** ⏳ Not Run
+### Evidencia
+
+![TC-007 - Eliminar producto del carrito](./evidence/TC-007-EliminarProducto.png)
+
 
 ---
 
@@ -230,9 +240,13 @@ total debe actualizarse.
 La cantidad debe actualizarse correctamente y el subtotal y
 total deben recalcularse.
 
-**Resultado obtenido:** Pendiente
+Resultado real: El usuario puede agregar productos al carrito.
+Status: ✅ PASS
 
-**Estado:** ⏳ Not Run
+### Evidencia
+
+![TC-008 - Actualizar cantidad del producto](./evidence/TC-008-ActualizarProducto.png)
+
 
 ---
 
