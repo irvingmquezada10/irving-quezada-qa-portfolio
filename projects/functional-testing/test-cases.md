@@ -35,7 +35,7 @@
 El sistema debe autenticar al usuario y mostrar la página
 principal de la aplicación.
 
-Actual Result: El usuario pudo iniciar sesión correctamente y se mostró la sesión activa.
+Resultado real: El usuario pudo iniciar sesión correctamente y se mostró la sesión activa.
 Status: ✅ PASS
 
 ### Evidencia
@@ -65,9 +65,12 @@ Status: ✅ PASS
 El sistema debe rechazar el acceso y mostrar un mensaje
 indicando que las credenciales no son válidas.
 
-**Resultado obtenido:** Pendiente
+Resultado real: El usuario no pudo iniciar sesión ya que el password era incorrecto.
+Status: ✅ PASS
 
-**Estado:** ⏳ Not Run
+### Evidencia
+
+![TC-002 - Login con contraseña incorrecta](./evidence/TC-002-ContraseñaIncorrecta.png)
 
 ---
 
@@ -92,9 +95,12 @@ indicando que las credenciales no son válidas.
 El sistema debe solicitar el ingreso de los campos obligatorios
 y no permitir el inicio de sesión.
 
-**Resultado obtenido:** Pendiente
+Resultado real: El usuario no ingresa y se muestra mensaje de advertencia para que se llenen los campos.
+Status: ✅ PASS
 
-**Estado:** ⏳ Not Run
+### Evidencia
+
+![TC-003 - Login con campos vacíos](./evidence/TC-003-LoginCamposVacios.png)
 
 ---
 
@@ -118,9 +124,12 @@ y no permitir el inicio de sesión.
 El sistema debe mostrar los productos que coincidan con el
 criterio de búsqueda.
 
-**Resultado obtenido:** Pendiente
+Resultado real: El usuario busca un producto por su nombre y el sistema muestra el producto que se busco.
+Status: ✅ PASS
 
-**Estado:** ⏳ Not Run
+### Evidencia
+
+![TC-004 - Búsqueda de producto existente](./evidence/TC-004-BúsquedaProductoE.png)
 
 ---
 
