@@ -70,7 +70,7 @@ Status: ✅ PASS
 
 ### Evidencia
 
-![TC-002 - Login con contraseña incorrecta](./evidence/TC-002-ContraseñaIncorrecta.png)
+![TC-002 - Login con contraseña incorrecta](./evidence/TC-002-ContrasenaIncorrecta.png)
 
 ---
 
@@ -129,7 +129,7 @@ Status: ✅ PASS
 
 ### Evidencia
 
-![TC-004 - Búsqueda de producto existente](./evidence/TC-004-BúsquedaProductoE.png)
+![TC-004 - Búsqueda de producto existente](./evidence/TC-004-BusquedaProductoE.png)
 
 ---
 
