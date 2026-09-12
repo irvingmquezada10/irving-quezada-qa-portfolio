@@ -38,6 +38,10 @@ principal de la aplicación.
 Actual Result: El usuario pudo iniciar sesión correctamente y se mostró la sesión activa.
 Status: ✅ PASS
 
+### Evidencia
+
+![TC-001 - Login exitoso](./evidence/TC-001.png)
+
 ---
 
 ### TC-002 — Login con contraseña incorrecta
